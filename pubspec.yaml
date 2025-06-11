@@ -1,7 +1,7 @@
 ##.title
 ## ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ##
-## Dart/Flutter (DF) Packages by DevCetra.com & contributors. The use of this
+## Dart/Flutter (DF) Packages by dev-cetera.com & contributors. The use of this
 ## source code is governed by an MIT-style license described in the LICENSE
 ## file located in this project's root directory.
 ##
@@ -13,9 +13,9 @@
 name: df_patterns
 description: A collection of regular expressions, patterns and utilities for patterns.
 version: 0.1.0
-repository: https://github.com/robmllze/df_patterns
+repository: https://github.com/dev-cetera/df_patterns
 funding:
-  - https://www.buymeacoffee.com/robmllze
+  - https://www.buymeacoffee.com/dev_cetera
 topics:
   - pattern
   - regex
