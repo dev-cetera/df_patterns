@@ -13,10 +13,6 @@ A collection of regular expressions, patterns and utilities for patterns.
 
 For a full feature set, please refer to the [API reference](https://pub.dev/documentation/df_patterns/).
 
-## Installation
-
-Use this package as a dependency by adding it to your `pubspec.yaml` file (see [here](https://pub.dev/packages/df_patterns/install)).
-
 ---
 
 ## Contributing and Discussions
